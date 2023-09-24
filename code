@@ -1,0 +1,38 @@
+# name of the notebook
+## notebook for ibm data science profecional certificate
+
+# an introduction about the notebook
+## Data science is a field that uses scientific methods, processes, algorithms, and systems
+## to extract knowledge and insights from data. Data scientists use their skills to solve real-world problems and make informed decisions.
+
+# Data science languages
+- Python
+- R
+- Julia
+
+# Data science libraries
+- NumPy
+- Pandas
+- Scikit-learn
+
+| Tool         | Description |
+| -------------| ----------- |
+| Python       |  A popular general-purpose programming language that is widely used for data science |
+| R            | A programming language and free software environment for statistical computing and graphics |
+| Julia        | A high-level, high-performance, dynamic programming language for technical computing. |
+
+# Arithmetic expression examples:
+## multiplication->5 * 10 = 50
+##  add->2 + 2 = 4
+## division->100 / 20 = 5
+
+print((20 + 5) * 4)
+
+print("minutes= " ,50/60)
+
+# Objectives
+## Learn the basics of data science languages and libraries.
+## Learn how to perform basic arithmetic operations in Python.
+
+# Author's name
+## Dina Ahmed
